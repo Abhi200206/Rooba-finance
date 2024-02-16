@@ -1,5 +1,5 @@
 # To run the code
-1. clone the repository locally.
+1. fork the repository and clone the repository locally.
 2. make sure you have node.js installed on your computer.
 3. open the the folder in any file editor.
 4. you can use the same mongodb url to connect to database or else you can connect your own mongodb url.
