@@ -50,7 +50,7 @@ Created a REST API endpoint using Node.js and Express that allows creating, read
 3. run "node index.js" to start the server
 4. use Postman to use the backend
 ## Postman request structure
-1. while using /users post route send the whole details in obj variable too the backend using postman
+1. while using /users post route send the whole details in obj variable to the backend using postman
 <img width="211" alt="Screenshot 2024-02-16 223505" src="https://github.com/Abhi200206/Rooba-finance/assets/120104020/b23c3d4f-ce05-4f5e-9c05-d978e7fb6b44">
 
 ## screenshots
